@@ -3,3 +3,4 @@
 # link da lista: https://wiki.python.org.br/EstruturaDeDecisao
 
 # 9 - Faça um Programa que leia três números e mostre-os em ordem decrescente.
+num1 = int(input('Digite um número: '))
